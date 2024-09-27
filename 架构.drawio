@@ -19,10 +19,10 @@
             <mxPoint x="-1" y="153" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JhA0-TLFEVkrXGUwiEJz-4" value="分系统调试 UI.exe&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JhA0-TLFEVkrXGUwiEJz-4" value="光源子系统调试 UI.exe&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="14" y="-47" width="120" height="153" as="geometry" />
         </mxCell>
-        <mxCell id="JhA0-TLFEVkrXGUwiEJz-6" value="分系统UI.dll" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JhA0-TLFEVkrXGUwiEJz-6" value="光源子系统UI.dll" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="29" y="37" width="92" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JhA0-TLFEVkrXGUwiEJz-7" value="光源子系统调试功能 .exe&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -33,6 +33,45 @@
         </mxCell>
         <mxCell id="JhA0-TLFEVkrXGUwiEJz-9" value="分系统独立开发" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-81" y="-42" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JhA0-TLFEVkrXGUwiEJz-10" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="169" y="318" as="sourcePoint" />
+            <mxPoint x="169" y="-114" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JhA0-TLFEVkrXGUwiEJz-11" value="消息总线" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="239" y="22" width="44" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="JhA0-TLFEVkrXGUwiEJz-12" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="JhA0-TLFEVkrXGUwiEJz-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="282" y="73" as="sourcePoint" />
+            <mxPoint x="338" y="73" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JhA0-TLFEVkrXGUwiEJz-13" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="JhA0-TLFEVkrXGUwiEJz-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="279" y="160" as="sourcePoint" />
+            <mxPoint x="334" y="158" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JhA0-TLFEVkrXGUwiEJz-14" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="349" y="-42" width="213" height="153" as="geometry" />
+        </mxCell>
+        <mxCell id="JhA0-TLFEVkrXGUwiEJz-15" value="光源子系统UI.dll" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="42" width="92" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JhA0-TLFEVkrXGUwiEJz-16" value="光源子系统调试功能 .exe&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="349" y="122" width="120" height="153" as="geometry" />
+        </mxCell>
+        <mxCell id="JhA0-TLFEVkrXGUwiEJz-17" value="分系统功能UI.dll" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="364" y="206" width="92" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JhA0-TLFEVkrXGUwiEJz-18" value="整机集成" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="254" y="-37" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JhA0-TLFEVkrXGUwiEJz-19" value="减震子系统UI.dll" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="361" y="-32" width="95" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
