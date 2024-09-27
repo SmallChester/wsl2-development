@@ -56,13 +56,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="JhA0-TLFEVkrXGUwiEJz-14" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="349" y="-42" width="213" height="153" as="geometry" />
+          <mxGeometry x="349" y="-42" width="117" height="153" as="geometry" />
         </mxCell>
         <mxCell id="JhA0-TLFEVkrXGUwiEJz-15" value="光源子系统UI.dll" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="364" y="42" width="92" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JhA0-TLFEVkrXGUwiEJz-16" value="光源子系统调试功能 .exe&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="349" y="122" width="120" height="153" as="geometry" />
+          <mxGeometry x="349" y="156" width="120" height="119" as="geometry" />
         </mxCell>
         <mxCell id="JhA0-TLFEVkrXGUwiEJz-17" value="分系统功能UI.dll" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="364" y="206" width="92" height="60" as="geometry" />
@@ -72,6 +72,21 @@
         </mxCell>
         <mxCell id="JhA0-TLFEVkrXGUwiEJz-19" value="减震子系统UI.dll" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="361" y="-32" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JhA0-TLFEVkrXGUwiEJz-20" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.876;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" target="JhA0-TLFEVkrXGUwiEJz-21" source="JhA0-TLFEVkrXGUwiEJz-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="376.5" y="128.25" as="sourcePoint" />
+            <mxPoint x="443.5" y="128" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JhA0-TLFEVkrXGUwiEJz-21" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="494" y="-16" width="117" height="153" as="geometry" />
+        </mxCell>
+        <mxCell id="JhA0-TLFEVkrXGUwiEJz-22" value="光源子系统UI.dll" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="509" y="68" width="92" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JhA0-TLFEVkrXGUwiEJz-23" value="UI刷新实时性要求比较高或者可靠性要求高的子系统，将其UI单独封装到1个独立进程" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="485" y="-100" width="164" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
